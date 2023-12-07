@@ -1,1 +1,3 @@
-
+num 1: no, it doesn't change variable a after the function call.
+num 2: yes, it does change the variable after the function call
+num 3: number 1 is no since integers are immutable and number 2 is yes since dictionaries are mutable and we're changing the dictionary
