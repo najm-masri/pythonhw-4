@@ -1,1 +1,2 @@
-
+reuseability is one use so that we don't have copy the same code over again, instead we just "extend" the class that is needed to reuse its attributes and methods. 
+Another use is overriding the attributes and methods which allows polymorphism
